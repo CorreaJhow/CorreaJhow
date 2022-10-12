@@ -1,9 +1,9 @@
-## Eaii, sou o Jhow Correa 
+## Prazer, sou o Jhow!
 
 <div align="center">
-  <a href="https://github.com/CorreaJhow">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CorreaJhow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorreaJhow&layout=compact&langs_count=7&theme=dark"/>
+  <a href="[https://github.com/CorreaJhow]">
+  <img width="42%" img height="180em" src="https://github-readme-stats.vercel.app/api?username=correajhow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correajhow&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
