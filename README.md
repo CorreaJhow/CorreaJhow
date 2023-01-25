@@ -1,4 +1,4 @@
-## Prazer, sou o Jhow!
+## Prazer, sou o Jhow! 🤘🏽
 
 <div align="center">
   <a href="[https://github.com/CorreaJhow]">
