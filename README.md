@@ -21,10 +21,10 @@ Gosto de automatizar o que é repetitivo e de colocar IA pra trabalhar no dia a 
 
 #### 🔄 Mexi recentemente
 <!-- RECENTES:INICIO -->
+- [**raio-x-setup**](https://github.com/CorreaJhow/raio-x-setup): Raio-x do seu Claude Code em PT-BR: uso real, contexto, segurança e um script que só desativa. · <sub>11/11/2026</sub>
+- [**raio-x-github**](https://github.com/CorreaJhow/raio-x-github): Skill do Claude Code em PT-BR que faz um raio-x do seu GitHub: auditoria de segurança, nota e script revisável · <sub>11/11/2026</sub>
 - [**tp-flame-organization**](https://github.com/CorreaJhow/tp-flame-organization): PWA de cifras e repertório pra equipe de louvor: offline no palco, transposição de tom e sync via Google Sheets · <sub>10/11/2026</sub>
 - [**csharp-15-na-pratica**](https://github.com/CorreaJhow/csharp-15-na-pratica): Exemplos que compilam e rodam de cada novidade do C# 15 / .NET 11, em PT-BR e com cenário do dia a dia · <sub>10/11/2026</sub>
-- [**FotoPrint**](https://github.com/CorreaJhow/FotoPrint): Impressão instantânea de fotos em eventos: convidado envia pela web, o sistema organiza, imprime e faz backup. Blazor Server · <sub>19/02/2026</sub>
-- [**AppHotelMaui**](https://github.com/CorreaJhow/AppHotelMaui): App de gestão de hotel em .NET MAUI · <sub>09/10/2025</sub>
 <!-- RECENTES:FIM -->
 
 #### 🧰 No dia a dia
