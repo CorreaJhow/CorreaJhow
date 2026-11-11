@@ -5,7 +5,6 @@ Gosto de automatizar o que é repetitivo e de colocar IA pra trabalhar no dia a 
 
 [![jhow.me](https://img.shields.io/badge/jhow.me-111?style=flat-square&logo=googlechrome&logoColor=white)](https://jhow.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatas-r-correa/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jhow_correa/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@jhow_correa)
 
 ---
@@ -32,5 +31,3 @@ Gosto de automatizar o que é repetitivo e de colocar IA pra trabalhar no dia a 
 `C#` `.NET` `ASP.NET Core` `EF Core` `SQL Server` `TypeScript` `React` `Next.js` `Tailwind` `Claude Code` `GitHub Actions`
 
 ---
-
-<sub>📍 Araraquara, SP · aberto a conversa sobre vaga remota .NET e projeto freela: <a href="https://jhow.me">jhow.me</a></sub>
