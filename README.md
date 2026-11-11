@@ -1,40 +1,36 @@
-<div align="center">
-  <h2>Opa, bem demais? Eu sou o Jhow! 🤘🏽</h2>
-  <h3>Backend Developer @ TIVIT</h3>
-  <p>Construindo soluções e buscando automatizar o que for repetitivo e aplicar IA no cotidiano</p>
-</div>
+### Opa, bem demais? Eu sou o Jhow 🤘🏽
 
-<div align="center">
+Dev backend **.NET / C#** na TIVIT, freelancer de sites e sistemas pra negócio local, e baixista nas horas vagas.
+Gosto de automatizar o que é repetitivo e de colocar IA pra trabalhar no dia a dia, e mostro o processo no LinkedIn e no Instagram.
 
-  ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-</div>
-
-<div align="center">
-  <a href="mailto:jhonatasrcorrea@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jhonatas-r-correa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+[![jhow.me](https://img.shields.io/badge/jhow.me-111?style=flat-square&logo=googlechrome&logoColor=white)](https://jhow.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatas-r-correa/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jhow_correa/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@jhow_correa)
 
 ---
 
-### 🚀 O que venho fazendo
+#### 🛠️ Projetos em destaque
 
-- 🔧 Desenvolvendo e mantendo APIs e sistemas com **.NET / C#**, aplicando princípios de **arquitetura de software** (Clean Architecture, DDD, entre outros)
-- 🤖 Explorando **IA e automação** para acelerar entregas e mitigar problemas.
-- 📚 Projetos pessoais de estudo: gerenciamento de contatos, controle de boletos, API de academia, Automações de gerenciamento de fotos, entre outros
+| Projeto | O que resolve | Stack |
+|---|---|---|
+| [**csharp-15-na-pratica**](https://github.com/CorreaJhow/csharp-15-na-pratica) | Exemplos que rodam de cada novidade do C# 15 / .NET 11, um por post | .NET 11 · C# 15 |
+| [**tp-flame-organization**](https://github.com/CorreaJhow/tp-flame-organization) · [demo](https://tp-flame-organization.vercel.app) | Cifras e repertório pra equipe de louvor, 100% offline no palco, com transposição de tom | PWA · TypeScript · Google Apps Script |
+| [**FotoPrint**](https://github.com/CorreaJhow/FotoPrint) | Impressão instantânea de fotos em casamento: convidado envia, a impressora solta | Blazor Server · .NET |
+| [**GymClientControlApi**](https://github.com/CorreaJhow/GymClientControlApi) | API de controle de alunos de academia | ASP.NET Core · EF Core |
+| [**BankSlipControl**](https://github.com/CorreaJhow/BankSlipControl) | Controle de boletos bancários | ASP.NET Core · SQL Server |
 
-### 📊 GitHub Stats
+#### 🔄 Mexi recentemente
+<!-- RECENTES:INICIO -->
+- [**jhow-portfolio**](https://github.com/CorreaJhow/jhow-portfolio): my portfolio · <sub>05/11/2026</sub>
+- [**tp-flame-organization**](https://github.com/CorreaJhow/tp-flame-organization): organization-tp-flame · <sub>02/11/2026</sub>
+- [**FotoPrint**](https://github.com/CorreaJhow/FotoPrint) · <sub>19/02/2026</sub>
+- [**AppHotelMaui**](https://github.com/CorreaJhow/AppHotelMaui): Aplicativo gerenciador de hoteis · <sub>09/10/2025</sub>
+<!-- RECENTES:FIM -->
 
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CorreaJhow&theme=tokyonight&hide_border=true" />
-</div>
+#### 🧰 No dia a dia
+`C#` `.NET` `ASP.NET Core` `EF Core` `SQL Server` `TypeScript` `React` `Next.js` `Tailwind` `Claude Code` `GitHub Actions`
 
 ---
 
-<div align="center">
-  <sub>📍 Araraquara, São Paulo, Brasil</sub>
-</div>
+<sub>📍 Araraquara, SP · aberto a conversa sobre vaga remota .NET e projeto freela: <a href="https://jhow.me">jhow.me</a></sub>
