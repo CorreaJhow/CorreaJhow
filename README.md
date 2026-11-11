@@ -21,10 +21,10 @@ Gosto de automatizar o que é repetitivo e de colocar IA pra trabalhar no dia a 
 
 #### 🔄 Mexi recentemente
 <!-- RECENTES:INICIO -->
-- [**jhow-portfolio**](https://github.com/CorreaJhow/jhow-portfolio): my portfolio · <sub>05/11/2026</sub>
-- [**tp-flame-organization**](https://github.com/CorreaJhow/tp-flame-organization): organization-tp-flame · <sub>02/11/2026</sub>
-- [**FotoPrint**](https://github.com/CorreaJhow/FotoPrint) · <sub>19/02/2026</sub>
-- [**AppHotelMaui**](https://github.com/CorreaJhow/AppHotelMaui): Aplicativo gerenciador de hoteis · <sub>09/10/2025</sub>
+- [**tp-flame-organization**](https://github.com/CorreaJhow/tp-flame-organization): PWA de cifras e repertório pra equipe de louvor: offline no palco, transposição de tom e sync via Google Sheets · <sub>10/11/2026</sub>
+- [**csharp-15-na-pratica**](https://github.com/CorreaJhow/csharp-15-na-pratica): Exemplos que compilam e rodam de cada novidade do C# 15 / .NET 11, em PT-BR e com cenário do dia a dia · <sub>10/11/2026</sub>
+- [**FotoPrint**](https://github.com/CorreaJhow/FotoPrint): Impressão instantânea de fotos em eventos: convidado envia pela web, o sistema organiza, imprime e faz backup. Blazor Server · <sub>19/02/2026</sub>
+- [**AppHotelMaui**](https://github.com/CorreaJhow/AppHotelMaui): App de gestão de hotel em .NET MAUI · <sub>09/10/2025</sub>
 <!-- RECENTES:FIM -->
 
 #### 🧰 No dia a dia
