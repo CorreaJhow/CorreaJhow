@@ -21,10 +21,10 @@ Gosto de automatizar o que é repetitivo e de colocar IA pra trabalhar no dia a 
 
 #### 🔄 Mexi recentemente
 <!-- RECENTES:INICIO -->
+- [**dotnet-na-pratica**](https://github.com/CorreaJhow/dotnet-na-pratica): Conceitos do .NET e C# com exemplo que roda e medido, em PT-BR. Estudo em público. · <sub>21/11/2026</sub>
 - [**skills-br**](https://github.com/CorreaJhow/skills-br): Skills do Claude Code em português: debug, verificação, handoff, SEO e estudo. Grátis, testadas. · <sub>19/11/2026</sub>
 - [**tp-flame-organization**](https://github.com/CorreaJhow/tp-flame-organization): PWA de cifras e repertório pra equipe de louvor: offline no palco, transposição de tom e sync via Google Sheets · <sub>19/11/2026</sub>
 - [**raio-x-setup**](https://github.com/CorreaJhow/raio-x-setup): Raio-x do seu Claude Code em PT-BR: uso real, contexto, segurança e um script que só desativa. · <sub>11/11/2026</sub>
-- [**raio-x-github**](https://github.com/CorreaJhow/raio-x-github): Skill do Claude Code em PT-BR que faz um raio-x do seu GitHub: auditoria de segurança, nota e script revisável · <sub>11/11/2026</sub>
 <!-- RECENTES:FIM -->
 
 #### 🧰 No dia a dia
