@@ -1,4 +1,4 @@
-// Atualiza a seção de repos recentes dos dois READMEs (EN e pt-BR) com os repos públicos mais recentes.
+// Atualiza a seção de repos recentes dos dois READMEs (pt-BR e EN) com os repos públicos mais recentes.
 // Roda no GitHub Actions (ver .github/workflows/atualizar-readme.yml). Só lê repos públicos.
 import { readFile, writeFile } from "node:fs/promises";
 
@@ -18,8 +18,8 @@ const repos = (await resp.json())
 
 // Cada README com o formato de data da língua dele.
 const ARQUIVOS = [
-  ["README.md", "en-US", { month: "short", day: "numeric", year: "numeric" }],
-  ["README.pt-BR.md", "pt-BR", {}],
+  ["README.en.md", "en-US", { month: "short", day: "numeric", year: "numeric" }],
+  ["README.md", "pt-BR", {}],
 ];
 
 for (const [arquivo, locale, formato] of ARQUIVOS) {
