@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-labelledby="t d">
+  <title id="t">Jhow Correa: from the factory floor to senior .NET backend</title>
+  <desc id="d">Four bass strings as a timeline: 2018 Embraer apprentice, 2020 palletizer robot at Piracanjuba, 2022 first dev job, 2026 senior backend at TIVIT.</desc>
+  <rect width="1200" height="400" rx="16" fill="#1F2328"/>
+  <text x="40" y="66" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="20" letter-spacing="2" fill="#A9ADB3">BACKEND .NET  ·  FREELANCE  ·  BASS</text>
+  <text x="38" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="800" fill="#F2EFEA">Jhow Correa</text>
+  <text x="40" y="188" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" fill="#A9ADB3">From the factory floor to senior backend.</text>
+  <line x1="215" y1="218" x2="215" y2="360" stroke="#353B42" stroke-width="3"/>
+  <line x1="505" y1="218" x2="505" y2="360" stroke="#353B42" stroke-width="3"/>
+  <line x1="795" y1="218" x2="795" y2="360" stroke="#353B42" stroke-width="3"/>
+  <line x1="1085" y1="218" x2="1085" y2="360" stroke="#353B42" stroke-width="3"/>
+  <line x1="40" y1="232" x2="1160" y2="232" stroke="#5A626B" stroke-width="1.5"/>
+  <line x1="40" y1="270" x2="1160" y2="270" stroke="#5A626B" stroke-width="2.2"/>
+  <line x1="40" y1="308" x2="1160" y2="308" stroke="#5A626B" stroke-width="3"/>
+  <line x1="40" y1="346" x2="1160" y2="346" stroke="#5A626B" stroke-width="3.8"/>
+  <rect x="86" y="331" width="310" height="30" fill="#1F2328"/>
+  <circle cx="70" cy="346" r="8" fill="#F2EFEA"/>
+  <text x="96" y="353" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="20"><tspan fill="#F07A6E" font-weight="700">2018</tspan><tspan fill="#F2EFEA"> Embraer apprentice</tspan></text>
+  <rect x="366" y="293" width="287.59999999999997" height="30" fill="#1F2328"/>
+  <circle cx="350" cy="308" r="8" fill="#F2EFEA"/>
+  <text x="376" y="315" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="20"><tspan fill="#F07A6E" font-weight="700">2020</tspan><tspan fill="#F2EFEA"> palletizer robot</tspan></text>
+  <rect x="646" y="255" width="254" height="30" fill="#1F2328"/>
+  <circle cx="630" cy="270" r="8" fill="#F2EFEA"/>
+  <text x="656" y="277" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="20"><tspan fill="#F07A6E" font-weight="700">2022</tspan><tspan fill="#F2EFEA"> first dev job</tspan></text>
+  <rect x="906" y="217" width="265.2" height="30" fill="#1F2328"/>
+  <circle cx="890" cy="232" r="11" fill="#F07A6E"/>
+  <text x="916" y="239" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="20"><tspan fill="#F07A6E" font-weight="700">2026</tspan><tspan fill="#F2EFEA"> senior @ TIVIT</tspan></text>
+</svg>
